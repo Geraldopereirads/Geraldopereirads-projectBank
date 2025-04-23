@@ -14,14 +14,14 @@ public class Account
 
 
 
-    public decimal Deposit(decimal value)
+    public virtual decimal Deposit(decimal value)
     {
         Balance += value;
         return Balance;
     }
 
 
-    public decimal withdraw(decimal value)
+    public virtual decimal withdraw(decimal value)
     {
         Balance -= value;
         return Balance;
