@@ -8,21 +8,21 @@ namespace projectBank
 {
     public class SavingsAccount : Account
     {
-        public double tariffs { get; set; } = 0.005;
+        public override double Tariffs { get; set; } = 0.005;
 
 
-        public override decimal withdraw(decimal value)
+        public decimal Withdraw(decimal value)
         {
-            if(value >= value)
+            if(Balance >= value)
             {
-                value -= value;
-                return value;
+                Balance -= value;
+                return Balance;
             }
 
             else
             {
-                Console.WriteLine("Insifficient balance...")
-                    return value;
+                Console.WriteLine("Insifficient balance...");
+                    return Balance;
             }
 
         }

@@ -1,0 +1,15 @@
+C:\Todos os Projetos\Udemy\projectBank\projectBank\bin\Debug\net8.0\projectBank.exe
+C:\Todos os Projetos\Udemy\projectBank\projectBank\bin\Debug\net8.0\projectBank.deps.json
+C:\Todos os Projetos\Udemy\projectBank\projectBank\bin\Debug\net8.0\projectBank.runtimeconfig.json
+C:\Todos os Projetos\Udemy\projectBank\projectBank\bin\Debug\net8.0\projectBank.dll
+C:\Todos os Projetos\Udemy\projectBank\projectBank\bin\Debug\net8.0\projectBank.pdb
+C:\Todos os Projetos\Udemy\projectBank\projectBank\obj\Debug\net8.0\projectBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Todos os Projetos\Udemy\projectBank\projectBank\obj\Debug\net8.0\projectBank.AssemblyInfoInputs.cache
+C:\Todos os Projetos\Udemy\projectBank\projectBank\obj\Debug\net8.0\projectBank.AssemblyInfo.cs
+C:\Todos os Projetos\Udemy\projectBank\projectBank\obj\Debug\net8.0\projectBank.csproj.CoreCompileInputs.cache
+C:\Todos os Projetos\Udemy\projectBank\projectBank\obj\Debug\net8.0\projectBank.sourcelink.json
+C:\Todos os Projetos\Udemy\projectBank\projectBank\obj\Debug\net8.0\projectBank.dll
+C:\Todos os Projetos\Udemy\projectBank\projectBank\obj\Debug\net8.0\refint\projectBank.dll
+C:\Todos os Projetos\Udemy\projectBank\projectBank\obj\Debug\net8.0\projectBank.pdb
+C:\Todos os Projetos\Udemy\projectBank\projectBank\obj\Debug\net8.0\projectBank.genruntimeconfig.cache
+C:\Todos os Projetos\Udemy\projectBank\projectBank\obj\Debug\net8.0\ref\projectBank.dll
