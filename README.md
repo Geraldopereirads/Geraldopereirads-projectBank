@@ -1,10 +1,10 @@
-# 💰 Project Bank - Sistema Bancário Simples em C# com .NET 8
+# Project Bank - Sistema Bancário Simples em C# com .NET 8
 
 Este é um projeto simples de um sistema bancário desenvolvido em **C#** com o **.NET 8.0**. Ele simula operações básicas de contas bancárias como **depósito**, **saque** e **aplicação de tarifas**, utilizando o conceito de **herança** e **polimorfismo** com **classes abstratas e sobrescritas**.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Criar contas com número, titular e saldo inicial.
 - Realizar depósitos com remuneração automática sobre o saldo.
@@ -16,7 +16,7 @@ Este é um projeto simples de um sistema bancário desenvolvido em **C#** com o 
 
 ---
 
-## 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 
 - Programação Orientada a Objetos (POO)
   - Herança
